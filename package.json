@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "has-cors": "1.1.0",
-    "ws": "https://github.com/bitpay/ws#2b94cd6d72a53e97f8777b60605383537e5d3b19",
+    "ws": "https://github.com/bitpay/ws#master",
     "xmlhttprequest-ssl": "1.5.1",
     "component-emitter": "1.1.2",
     "indexof": "0.0.1",
@@ -40,7 +40,7 @@
     "browserify": "6.2.0",
     "concat-stream": "1.4.6",
     "derequire": "1.2.0",
-    "engine.io": "socketio/engine.io#3df49bb",
+    "engine.io": "bitpay/engine.io#master",
     "expect.js": "0.2.0",
     "express": "3.4.8",
     "istanbul": "0.2.3",
