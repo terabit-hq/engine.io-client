@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "has-cors": "1.1.0",
-    "ws": "0.8.0",
+    "ws": "https://github.com/bitpay/ws#2b94cd6d72a53e97f8777b60605383537e5d3b19",
     "xmlhttprequest-ssl": "1.5.1",
     "component-emitter": "1.1.2",
     "indexof": "0.0.1",
